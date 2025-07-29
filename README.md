@@ -36,33 +36,7 @@ This project demonstrates how to implement a full authentication flow in Flutter
 ---
 
 ## 📁 Folder Structure
+![Folder Structure](https://drive.google.com/drive/u/0/home)
 
-lib/
-├── app/
-│ ├── core/
-│ │ ├── bindings/
-│ │ │ └── initial_bindings.dart
-│ │ ├── services/
-│ │ │ ├── storage_service.dart
-│ │ │ └── user_service.dart
-│ │ └── data/
-│ │ └── models/
-│ │ └── user_model.dart
-│ ├── features/
-│ │ └── auth/
-│ │ ├── bindings/
-│ │ ├── controllers/
-│ │ └── pages/
-│ ├── modules/
-│ │ └── home/
-│ │ ├── bindings/
-│ │ ├── controllers/
-│ │ └── views/
-│ ├── routes/
-│ │ ├── app_routes.dart
-│ │ └── app_pages.dart
-│ └── shared/
-│ └── widgets/
-│ └── custom_button.dart
 
 
