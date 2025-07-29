@@ -44,19 +44,9 @@ This project demonstrates how to implement a full authentication flow in Flutter
 
 ## 📸 App Screenshots
 
-### 🟦 Login Page
-
 ![Login Page](https://drive.google.com/uc?export=view&id=1q0w2bxwY42QMx8T-n48TQI2WkTgh4B08)
 
----
-
-### 🟩 Home Page
-
 ![Home Page](https://drive.google.com/uc?export=view&id=1w6LVUZdZLQs86Ak0Y9CIruSa1eelCF3V)
-
----
-
-### 🟨 Logout Action
 
 ![Profile Page](https://drive.google.com/uc?export=view&id=1doHpSr92yZjW3wO3_AHRhV3l3Ok5CxFa)
 
