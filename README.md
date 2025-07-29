@@ -35,8 +35,10 @@ This project demonstrates how to implement a full authentication flow in Flutter
 
 ---
 
-## 📁 Folder Structure
-![Folder Structure](https://drive.google.com/drive/u/0/home)
+### 📸 Folder Structure Screenshot
+
+![Folder Structure](https://drive.google.com/uc?export=view&id=1csVjt2BFZTIIIsLn_bKzHInNU9GayZ9J)
+
 
 
 
